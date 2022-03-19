@@ -9,4 +9,4 @@ Fnuctions and classes that my dtree file contains:
 4. RegressionTree621 and ClassifierTree621: built using DecisionTree. They give the ability to our implementation to work both as a regressor and classifier. Based on being Regressor or classifier fit and prdict behave differently.
 
 
-test_dtree.py is a script designed by my professor Dr.Parr to test my implementation aginst Scikit-learn's.
+test_dtree.py is a script designed by my professor Dr.Parr to test my implementation against Scikit-learn's.
